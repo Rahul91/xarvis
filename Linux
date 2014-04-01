@@ -1,0 +1,76 @@
+ Understanding Linux
+
+
+What is Linux?
+
+Linux, first of all is an Operating Systems..!!!
+Operating Systems - Now whats an Operating System, Lets solve this riddle
+
+An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs. 
+
+And now whats KERNEL. Kernel is heart of an OS, it manages resources, now whats an resource?? Are we going off topic!!! Okay lets be back on our topic.
+Lets be back to Linux.
+
+History
+
+Linux is a Unix-Like OS. The History of Linux began in 1991 with the commencement of a personal project by a Finnish student, Linus Torvalds, to create a new free operating system kernel. Since then, the resulting Linux kernel has been marked by constant growth throughout its history. Since the initial release of its source code in 1991, it has grown from a small number of C files under a license prohibiting commercial distribution to its state in 2009 of over 370 MB
+of source under the GNU General Public License.
+
+
+Features of Linux
+
+Free
+
+Linux is free.  :)
+First ,It's available free of cost (You don't have to pay to use this OS, other OSes like MS-Windows or Commercial version of Unix may cost you money) 
+Second free means freedom to use Linux, i.e. when you get Linux you will also get source code of Linux, so you can modify OS (Yes OS! Linux OS!!) according to your taste. 
+It also offers many Free Software applications, programming languages, and development tools etc. Most of the Program/Software/OS are under GNU General Public License
+
+Unix Like 
+
+Then Ken Thompson (System programmer of Bell Labs) thinks he could do better (In 1991, Linus Torvalds felt he could do better than Minix - History repeats itself.). So Ken Thompson wrote OS on PDP - 7 Computer, assembler and few utilities, this is know as Unix (1969). But this version of Unix is not portable. Then Unix was rewrote in C. Because Unix written in 'C', it is portable. It means Unix can run on verity of Hardware platform (1970-71). 
+So Unix is Multi-user, Multitasking, Internet-aware Network OS.  Linux almost had same Unix Like feature for e.g.
+
+    Like Unix, Linux is also written is C.
+    Like Unix, Linux is also the Multi-user/Multitasking/32 or 64 bit Network OS.
+    Like Unix, Linux is rich in Development/Programming environment.
+    Like Unix, Linux runs on different hardware platform.
+
+
+Open Source 
+
+Linux is developed under the GNU Public License. This is sometimes referred to as a "copyleft", to distinguish it from a copyright.
+Under GPL the source code is available to anyone who wants it, and can be freely modified, developed, and so forth. There are only a few restrictions on the use of the code. If you make changes to the programs , you have to make those changes available to everyone. This basically means you can't take the Linux source code, make a few changes, and then sell your modified version without making the source code available.
+
+
+Why Linux?
+
+Hmm.. A skeptic, good.. Well, First of all its FREE and you have got this amazing oppurtunity to modify, customize and change the source code which is available to all, unlike Windows where everything is hidden and all..
+
+Secondly, there is this really cool community of Linux users always for your help, kinda missing from Windows platform.
+
+Its a whole new world when you start or when you switch to Linux form boring BLUE GAINTS.
+
+
+Where Linux can be used
+
+Anywhere, literally anywhere be it be your old pc, new laptop, tablet or even mobile phones. It is there, specifically speaking these are where Linux can be used.
+
+    Personal Work
+    Web Server
+    Software Development Workstation
+    Workgroup Server
+    In Data Center for various server activities such as FTP, Telnet, SSH, Web, Mail, Proxy, Proxy Cache Appliance etc.
+
+
+Conclusion
+
+
+So start using one. Latest version of Linux Ubuntu is 13.04, easily available everywhere to download go to www.ubuntu.com/download
+
+
+ 
+
+Cheers!!!
+
+
